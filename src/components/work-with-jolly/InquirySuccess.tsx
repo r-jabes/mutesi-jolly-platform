@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { workWithJolly } from "@/content/work-with-jolly";
 import { LinkArrow } from "@/components/ui/LinkArrow";
 import { MetadataLabel } from "@/components/ui/MetadataLabel";

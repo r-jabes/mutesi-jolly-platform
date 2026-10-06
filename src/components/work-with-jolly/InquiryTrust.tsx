@@ -1,7 +1,6 @@
 import { workWithJolly } from "@/content/work-with-jolly";
 import { Reveal } from "@/components/motion/Reveal";
 import { TextReveal } from "@/components/motion/TextReveal";
-import { MetadataLabel } from "@/components/ui/MetadataLabel";
 
 export function InquiryTrust() {
   const { trust } = workWithJolly;
